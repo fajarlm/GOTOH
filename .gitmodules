@@ -1,0 +1,9 @@
+[submodule "be-express"]
+	path = be-express
+	url = https://github.com/fajarlm/gotoh-be-express
+[submodule "fe_mobile"]
+	path = fe_mobile
+	url = https://github.com/fajarlm/gotoh-mobile-flutter
+[submodule "fe-react"]
+	path = fe-react
+	url = https://github.com/fajarlm/gotoh-fe-react
